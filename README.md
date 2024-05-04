@@ -12,4 +12,4 @@
 
 [insta][]
 
-[insta]: "https://www.instagram.com/fluorine_10/"
+[insta]: https://www.instagram.com/fluorine_10/
