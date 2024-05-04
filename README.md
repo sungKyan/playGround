@@ -9,3 +9,7 @@
 <a>  혹은   abkimopl@naver.com</a>
 
 ![reversal](https://capsule-render.vercel.app/api?type=transparent&text=과제할%20때%20참고용으로만%20봐주세요&fontAlign=30&fontSize=20&desc=&descAlign=60&descAlignY=50&theme=radical)
+
+[insta][]
+
+[insta]: "https://www.instagram.com/fluorine_10/"
