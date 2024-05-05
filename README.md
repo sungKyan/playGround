@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=과제할%20때%20참고용으로만%20봐주세요&fontAlign=30&fontSize=20&desc=&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=transparent&text=과제할%20때%20참고용으로만%20봐주세요&fontAlign=30&fontSize=40&desc=&descAlign=60&descAlignY=50&theme=radical)
 
 <a>프로그래밍 기초 과제 코드 공유하는 곳.
 
