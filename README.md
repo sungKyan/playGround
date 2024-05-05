@@ -6,7 +6,8 @@
 
 </a>
 
-<a>//코드 관련 의견이나 질문// DM:
+<a>//코드 관련 의견이나 질문//
+DM:
 </a>
 <a href="https://www.instagram.com/fluorine_10/" target="_blank"> Instagram</a>
 <a>  혹은   E-mail: abkimopl@naver.com</a>
