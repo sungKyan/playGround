@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class ArrayAdd{
-	//메인함수는 seed값을 받고 배열을 출력하는 역할을 함.
+	//main메서드는 사용자로부터 seed값을 받고 printArray메서드를 출력하는 역할을 한다.
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
