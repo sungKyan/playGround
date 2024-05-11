@@ -10,5 +10,5 @@
 
 DM:
 </a>
-<a href="https://www.instagram.com/sung_kyan?igsh=MXJoMzl3bGp0dXkydw=="> Instagram</a>
+<a href="https://www.instagram.com/sung_kyan"> Instagram</a>
 <a>  혹은   E-mail: abkimopl@naver.com</a>
